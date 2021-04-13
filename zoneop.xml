@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<MQTTPayload>
+	<req_type>PUT</req_type>
+	<zoneid>6</zoneid>
+	<zone_type>1</zone_type>
+	<dev_id>2</dev_id>
+</MQTTPayload>

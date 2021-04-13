@@ -1,0 +1,18 @@
+<zoneop>
+<valid>TRUE</valid>
+<zone_id>1</zone_id>
+<active>ON</active>
+<zone_type>1</zone_type>
+<zone_name>kitchen</zone_name>
+<devices_inzone>2</devices_inzone>
+<parent_index>0</parent_index>
+<icon_name>null</icon_name>
+<ex_dev_id />
+<ex_zone_id />
+<child_zone_id />
+<sec_mode>0</sec_mode>
+<es_timeout>900</es_timeout>
+<es_status>1</es_status>
+<operation />
+<dim>0</dim>
+</zoneop>

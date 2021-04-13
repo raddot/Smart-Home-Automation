@@ -1,0 +1,24 @@
+<schedule>
+	<event>
+		<eventID>99</eventID>
+		<active>ON</active>
+		<dev_id>2</dev_id>
+		<dev_type>6</dev_type>
+		<sub_dev_type>2</sub_dev_type>
+		<appliance_type>0</appliance_type>
+		<eventName>alexa</eventName>
+		<userSetTimeout>1521801485</userSetTimeout>
+		<repeat>
+			<mon>0</mon>
+			<tue>0</tue>
+			<wed>0</wed>
+			<thu>0</thu>
+			<fri>0</fri>
+			<sat>0</sat>
+			<sun>0</sun>
+		</repeat>
+		<eventState>
+			<slight_1>255</slight_1>
+		</eventState>
+	</event>
+</schedule>
